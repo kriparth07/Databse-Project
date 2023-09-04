@@ -1,1 +1,2 @@
 # Databse-Project
+In this project i will create the relation data base for the retail store to keep the record for the customer orders. There will be four tables Manufactures, Items, customers, and orders. Each table will have a primary key that can not be null and uniquely identifies each record in the table. The application I wan to create through this project is the application for the retails store so they can keep the record for the customers who orders items from the which manufacture, what item is, and how many quantities did customer order for an items.
